@@ -234,3 +234,35 @@ As seen above the FII & DII's Buying and selling action can be clearly seen by t
 ### ● Straddles
 
 These features are a great tool for Advanced Option Traders who use multi- leg Option strategies. The Options Backtesting and Options Algorithm can be a useful tool for professional and advanced traders.
+
+6. Combinations of Strategies
+Traders and investors use combinations for a wide variety of trading strategies because they can be constructed to provide specific risk-reward payoffs that suit the individual's risk tolerance and preferences and expectations for the current market environment.
+6.1 What is a Combination?
+In options trading a combination is a blanket term for any options trade that is constructed with more than one option type, strike price, or expiration date on the same underlying asset. These trades can have a wide variety of strategies including extracting profit from up, down, or sideways trends in the market. Combinations offer carefully tailored strategies for specific market conditions.
+6.2 Why to use combinations of strategies?
+Depending on the individual's needs, option combinations can create risk and reward profiles which either limit risk or take advantage of specific options characteristics such as volatility and time decay. Options combination strategies take advantage of the many choices available in the options series for a given underlying asset.
+6.2.1 Strategy for Sideways/Neutral Market
+Iron Butterfly( )
+It is a combination of two vertical spreads of differing types: a bull put spread and a bear call spread. These spreads may or may not share a central strike price. Its goal is to profit from low volatility in the underlying asset. In other words, it earns the maximum profit when the underlying asset closes at the middle strike price at expiration.
+### 6.2 Strategy for Volatile Market
+
+A very popular combination for this category is Long Straddle and long strangle, gives profit for high volatility irrespective of whether market goes upside or downside.
+
+### 6.3 Strategy for Trending Market
+
+For bullish trend one can use the combination like buy put option and sell call option, another one is bear Put spread and bear call spread, similarly a combination of long straddle and long Strangle, bear put spread and bear call spread, etc is good for bullish trend. These combination gives an accuracy and profit more than using single option strategies for this type of market.
+7. Correlation of Indian market with Singapore market
+7.1 How does SGX What is SGX (Singapore Exchange) Nifty?
+SGX Nifty is a derivative of the Nifty index, which is traded in the Singapore stock exchange platform, where this trade sets a predetermined price of a share and reduces the future risk of any investments.
+As the Singapore Stock Exchange is the leading stock exchange in India, the SGX nifty helps to predict and observe the behaviour of the Indian Nifty and thus has an important role to play in the Indian stock market.
+7.2 How does SGX Nifty impact the Indian Market?
+There is a time difference between the Indian Nifty and the SGX Nifty, wherein the Singapore market opens about two and a half hours before the Indian market. This allows investors to keep an eye on the SGX nifty to know the fluctuations in the market and observe how the overall trading process is going. By observing this, the investors get an idea about the Indian market and whether it will open with positive or negative results.
+Although this may be a convenient way to judge the Indian market and weigh out your chances, not all results these investors get are accurate and subject to the various economic factors existing in both countries. As both these countries—India and Singapore have very different economic structures it has different yet prominent effects on the market behaviour.
+7.3 Advantage of Trade using SGX Nifty
+Encourages more foreign investors to invest in the Indian derivative market. The proximity in location between India and Singapore ensures that there is better connectivity between the two exchanges and lesser time lapse. It serves as a good alternative to investors who do not have access to Indian markets especially if they seek to transact in terms of US Dollars. The expanded working hours of SGX Nifty provides leverage in transactions, especially with regard to the hedge funds. The 16 hour time window also allows market participants to take a view on the Indian markets
+
+based on overnight developments in Wall Street enhancing their decision making capacity.
+
+### 7.4 Disadvantage of Trade using SGX Nifty
+
+SGX Nifty is more volatile than NSE Nifty, affected by world economic cycles and global political events. Indian residents are prohibited from trading in SGX Nifty contracts. Difference Between SGX Nifty and NSE Nifty. The Indian stock market opens at 9:15 AM and closes at 3:30 PM, providing it a six and a half hour window to operate. The SGX Nifty, on the other hand, operates from 6:30 AM to 11:30 PM IST, trading for 16 hours a day in the Singapore Stock exchange. The longer trading hours on the SGX ensures that the impact of global events is more advanced on the stocks traded in that exchange. Additionally, the SGX Nifty futures is referred to by the traders for early decision making as juxtaposed to NSE Nifty.
